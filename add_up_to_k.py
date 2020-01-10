@@ -1,6 +1,6 @@
 """
 This Problem was asked by Google
-Given a slit of numbers and a number k,
+Given a list of numbers and a number k,
 return whether two numbers from the list add up to k
 
 Example:
