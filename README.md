@@ -5,8 +5,8 @@ My solutions to the daily coding problem from: https://www.dailycodingproblem.co
 ## Problems I have solved already
 
 ```
-1. Return whether any two numbers from a list add up to a given integer
+1. Return whether any two numbers from a list add up to a given integer (Google)
 ```
 ```
-2. Return a list with the product without the i-th element
+2. Return a list with the product without the i-th element (Uber)
 ```
