@@ -8,5 +8,5 @@ My solutions to the daily coding problem from: https://www.dailycodingproblem.co
 1. Return whether any two numbers from a list add up to a given integer
 ```
 ```
-2. 
+2. Return a list with the product without the i-th element
 ```
