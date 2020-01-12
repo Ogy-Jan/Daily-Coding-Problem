@@ -5,13 +5,18 @@ https://www.dailycodingproblem.com/
 
 ## Problems I have solved already
 
+Problem 1: **Google**
 ```
-1. Return whether any two numbers from a list add up to a given integer (Google)
+Given a list of numbers and a number k,
+return whether two numbers from the list add up to k
 ```
+Problem 2: **Uber**
 ```
-2. Return a list with the product without the i-th element (Uber)
+Given an array of integers, return a new array such that
+each element at index i of the new array is the product
+of all the numbers in the original array except the one at i.
 ```
-3. **Google**
+Problem 3. **Google**
 ``` 
 Given the root to a binary tree, implement *serialize(root)*, 
 which serializes the tree into a string, and *deserialize(s)*, 
