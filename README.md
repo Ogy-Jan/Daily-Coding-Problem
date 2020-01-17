@@ -35,3 +35,10 @@ cons(a, b) constructs a pair, and car(pair) and cdr(pair) returns
 the first and the last element of that pair. Given the implementation of pair,
 implement car and cdr.
 ```
+Problem 6: **Google**
+``` 
+Implement an XOR linked list; it has an add(element) which adds 
+the element to the end, and a get(index) which returns the node at index.
+Note: I didn't implement this one correctly
+```
+
